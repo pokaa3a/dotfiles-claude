@@ -7,3 +7,4 @@ Version-controlled global Claude Code config (skills, rules, etc.), symlinked in
 
 - `CLAUDE.md` — global rules, symlinked to `~/.claude/CLAUDE.md`
 - `skills/` — global skills, symlinked to `~/.claude/skills`
+- `agents/` — global subagents, symlinked to `~/.claude/agents`
